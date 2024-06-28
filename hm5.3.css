@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bigBox{
+    height: 100vh;
+    background-color: #9df1f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+.box1{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.box2{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+ h1{
+     font-size: 90px;
+     font-family: "Rubik", sans-serif;
+     box-shadow: 15px 10px 42px -14px rgba(0,0,0,0.64);
+}
+ .black{
+     height: 100px;
+     width: 100px;
+     background-color: black;
+     color: white;
+     border: 1px;
+     box-shadow: 15px 10px 42px -14px rgba(0,0,0,0.64);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+
+
+ }
+ .red{
+     height: 100px;
+     width: 100px;
+     background-color: red;
+     color: white;
+     border: 1px;
+     box-shadow: 15px 10px 42px -14px rgba(0,0,0,0.64);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+
+ }
+ .green{
+     height: 100px;
+     width: 100px;
+     background-color: green;
+     color: white;
+     border: 1px;
+     box-shadow: 15px 10px 42px -14px rgba(0,0,0,0.64);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+
+
+ }
+ .blue{
+     height: 100px;
+     width: 100px;
+     background-color: blue;
+     color: white;
+     border: 1px;
+     box-shadow: 15px 10px 42px -14px rgba(0,0,0,0.64);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+
+ }
+ .fuchsia{
+     height: 100px;
+     width: 100px;
+     background-color: fuchsia;
+     color: white;
+     border: 1px;
+     box-shadow: 15px 10px 42px -14px rgba(0,0,0,0.64);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+
+ }
+ .white{
+     height: 100px;
+     width: 100px;
+     background-color: white;
+     border: 1px;
+     box-shadow: 15px 10px 42px -14px rgba(0,0,0,0.64);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+
+ }
+ .yellow{
+     height: 100px;
+     width: 100px;
+     background-color: yellow;
+     border: 1px;
+     box-shadow: 15px 10px 42px -14px rgba(0,0,0,0.64);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+
+ }
+ .purple{
+     height: 100px;
+     width: 100px;
+     background-color: purple;
+     color: white;
+     border: 1px;
+     box-shadow: 15px 10px 42px -14px rgba(0,0,0,0.64);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+
+ }
+ .maroon{
+     height: 100px;
+     width: 100px;
+     background-color: maroon;
+     color: white;
+     border: 1px;
+     box-shadow: 15px 10px 42px -14px rgba(0,0,0,0.64);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+
+ }
+ .olive{
+     height: 100px;
+     width: 100px;
+     background-color: #415224;
+     color: white;
+     border: 1px;
+     box-shadow: 15px 10px 42px -14px rgba(0,0,0,0.64);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+
+ }
