@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    height: 24.5vh;
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: #8D8484;
+    color: #000;
+    font-family: "Inter", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+
+
+}
+header p{
+    margin-top: 9.5vh;
+    margin-left: 41vw;
+    margin-right: 41vw;
+}
+.box{
+    display: flex;
+
+
+}
+
+main{
+    width: 66vw;
+
+}
+section{
+    height: 21vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 45px;
+
+
+
+
+}
+section p{
+    margin-top: 7.9vh;
+    /*  margin-left: 22.5vw; якщо ставлю ці всі відступи як в фігмі, то текс стоїть по іншому
+    margin-right: 31vw;*/
+}
+aside{
+    width: 24vw;
+
+}
+.spam1{
+    height: 31.5vh;
+    background: #937575;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.spam2{
+    height: 31.5vh;
+    background: #644C4C;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+footer{
+    height: 24.5vh;
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: #BDBDBD;
+    color: #000;
+    font-family: "Inter", sans-serif;
+    font-size: 45px;
+    font-style: normal;
+
+}
+
+footer p{
+    margin-top: 9.5vh;
+    margin-left: 41vw;
+    margin-right: 41vw;
+}
